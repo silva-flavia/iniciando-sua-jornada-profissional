@@ -31,21 +31,9 @@ TECNOLOGIAS
     • Python
     • Data Science
 
-
-EXPERIÊNCIA PROFISSIONAL (caso tenha alguma. Se não tiver, retire)
-
-Coloque o nome do lugar que fez estágio/voluntariado/freela.. (ano - atual) coloque em ordem do mais recente para o mais antigo
-Cargo:  caso tenha tido.
-Atividade:
-    • Atividade 1 de maneira resumida.
-    • Atividade 2 de maneira resumida.
-    • Atividade 3 …
-
-
-
 CURSOS | CERTIFICAÇÕES 
 Listas, funções e repetição: criando um jogo de corrida - Alura (2025)
 
 
 IDIOMAS
-Inglês  - lugar onde fez (ano em que fez - do mais recente para o mais novo)
+Inglês basico - Colégio Estadual Rio Branco ensino Fundamental e Méio.
