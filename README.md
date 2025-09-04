@@ -36,4 +36,4 @@ Listas, funções e repetição: criando um jogo de corrida - Alura (2025)
 
 
 IDIOMAS
-Inglês basico - Colégio Estadual Rio Branco ensino Fundamental e Méio.
+Inglês basico - Colégio Estadual Rio Branco ensino Fundamental e Médio.
