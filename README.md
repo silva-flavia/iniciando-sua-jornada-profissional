@@ -10,7 +10,7 @@ Me formar em Fisioterapia, e ter o minimo de conhecimento sobre tecnologia.
 
 
 FORMAÇÃO ACADÊMICA
-Colégio Etadual Rio Branco Ensino fundamental e Médio- 2025 (se concluiu ou ainda está cursando)
+Colégio Etadual Rio Branco Ensino fundamental e Médio- 2025.
 
 
 PROJETOS Página Web: criando um catálogo de vídeos com HTML e CSS.
